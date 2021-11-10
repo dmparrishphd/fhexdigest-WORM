@@ -1,2 +1,1 @@
-# fhexdigest-WORM
-Compute representations of hash digests of the contents of binary files
+[README](https://github.com/dmparrishphd/fhexdigest-CORW/blob/main/README.md).
